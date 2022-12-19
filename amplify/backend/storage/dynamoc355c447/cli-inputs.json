@@ -1,0 +1,10 @@
+{
+  "resourceName": "dynamoc355c447",
+  "tableName": "dynamoc355c447",
+  "partitionKey": {
+    "fieldName": "asdf",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
